@@ -95,23 +95,23 @@ You'll have to install git (just type **git** on terminal) and  [Node.js](https:
 - electron (http://electron.atom.io/)
 
 ## Other macOS Apps
-- [Homebrew](http://brew.sh/) - A package manager for macOS
-- [MenuMeters](http://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/) - Shows various system processes in the top toolbar.
-  * Preferences (CPU - Graph & Percentage, Disk - Disk Arrows (Large), Memory - Usage Chart, Network - Throughput)
-- [Puush](http://puush.me/) - Automatically saves screenshots to the cloud and gives a url for easy sharing
-- [Dropbox](https://www.dropbox.com/install) - Personal Cloud Storage
-- [Slack](https://slack.com/downloads/osx) - Team communication for a variety of platforms and situations
-- [RStudio](https://www.rstudio.com/products/rstudio/download/) - Text editor for R which has terminal and viewer attachments
-- [Anaconda](https://www.continuum.io/downloads#osx) - A navigator with useful Python packages. I prefer the Python 3.5 flavour
-- [Sublime Text](https://www.sublimetext.com/3) - The go-to text editor
-- [IntelliJ](https://www.jetbrains.com/idea/download/) - Java and Scala native editor. As a student, you can get this for free
-- [FileZilla](https://filezilla-project.org/download.php?type=client) - GUI Client for scp, ssh and other file transfer protocols if you don't want to do this via Terminal
 - [Adobe Creative Cloud](http://www.adobe.com/downloads.html) - Adobe taking away your money for tools
   * Illustrator CC - Install through Adobe CC
   * Photoshop CC - Install through Adobe CC
-- [Skype](https://www.skype.com/en/download-skype/skype-for-computer/) - Video chatting!
-- [VLC](http://www.videolan.org/vlc/download-macosx.html) - Media viewer for all your viewing needs
+- [Anaconda](https://www.continuum.io/downloads#osx) - A navigator with useful Python packages. I prefer the Python 3.5 flavour
 - [Disk Inventory X](http://www.derlien.com/downloads/) - Shows all the space available and folders taking up space for your computer
-- [Steam](http://store.steampowered.com/about/) - Games, games, games
-- [OpenEmu](http://openemu.org/) - Game emulator with heaps of devices for macOS
 - [Dolphin](https://dolphin-emu.org/) - GameCube and Wii emulator for macOS
+- [Dropbox](https://www.dropbox.com/install) - Personal Cloud Storage
+- [FileZilla](https://filezilla-project.org/download.php?type=client) - GUI Client for scp, ssh and other file transfer protocols if you don't want to do this via Terminal
+- [Homebrew](http://brew.sh/) - A package manager for macOS
+- [IntelliJ](https://www.jetbrains.com/idea/download/) - Java and Scala native editor. As a student, you can get this for free
+- [MenuMeters](http://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/) - Shows various system processes in the top toolbar.
+  * Preferences (CPU - Graph & Percentage, Disk - Disk Arrows (Large), Memory - Usage Chart, Network - Throughput)
+- [Puush](http://puush.me/) - Automatically saves screenshots to the cloud and gives a url for easy sharing
+- [OpenEmu](http://openemu.org/) - Game emulator with heaps of devices for macOS
+- [RStudio](https://www.rstudio.com/products/rstudio/download/) - Text editor for R which has terminal and viewer attachments
+- [Skype](https://www.skype.com/en/download-skype/skype-for-computer/) - Video chatting!
+- [Slack](https://slack.com/downloads/osx) - Team communication for a variety of platforms and situations
+- [Steam](http://store.steampowered.com/about/) - Games, games, games
+- [Sublime Text](https://www.sublimetext.com/3) - The go-to text editor
+- [VLC](http://www.videolan.org/vlc/download-macosx.html) - Media viewer for all your viewing needs
